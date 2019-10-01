@@ -11,11 +11,15 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
-                    </div>
+                   <p>
+                   I am a Computer Science Engineering Graduate working as a Full Stack Developer in Tata Consultancy Services. I have been part and played a significant role in multiple teams in creation of web and mobile applications for Business areas like Core Banking, Lending and Mortgage in Banking & Financial
+Services Domain.
+                   
+                   </p>
+                    
+                   </div>
                 </div>
                 </div>
             </div>
@@ -38,7 +42,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building web applications using JavaScript,jQuery,Angular,React,HTML,CSS</p>
+                    <p>Can Build RESTful APIs using Java Spring Boot and Node JS</p>
+                    <p>Oracle Certified Professional, Java SE Programmer Certification</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +54,10 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Mobile App Development</h3>
+                    <p>I have experience building mobile application for iOS and Android Platforms using Java , Objective C and Swift </p>
+                    <p>Development of Native iOS and Android components like Automatic image capture, Chatbot
+Engine Integration, OCR tools, Enabling Push notifications with Firebase and Azure Cloud.</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +68,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I have experience with automating web application deployment using tools like Jenkins, Docker, K8s</p>
+                    <p>Worked on Cloud Based implementations using AWS and Microsoft Azure</p>
+                    <p>Servless Application development using Aws Lambda and Azure Functions</p>
                 </div>
                 </div>
             </div>

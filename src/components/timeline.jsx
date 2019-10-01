@@ -21,8 +21,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Working at Tata Consultancy Services <span>2014-present</span></h2>
+                        <p>It's been a 5yr journey with TCS, I got good opportunities to explore on multiple technologies for building web and mobile based applications. We have a build a solution called mMortgage which involves helping lenders, banking and financial institution to digitize the customer touch points providing a frictionless consumer experience.</p>
+                        <p>Most of the applications are focused latest IT trends like Artificial Inteligence, Machine Learning, Deep Learning and Cloud Computing.</p><p>We have movied to Business 4.0 focusing on disruptive and innovative technologies like Internet of Things (IoT), artificial intelligence (AI), cloud, analytics and others are changing business models and driving exponential growth </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +33,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Graduated from Dhanalakshmi College of Engineering <span>2010-2014</span></h2>
+                        <p>I graduated from Dhanalakshmi Engineering College, affliated to Anna University. It was very challenging journey I did lot of self learning to understand the engineering concepts. My interest towards Computers helped me to learn a lot about new technologies.</p>
+                        <p>I researched on Network Security, Ethical Hacking , Web Programing and particpated in lot of workshops which helped me what is expected from IT Industry.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +45,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education @ Chinmaya Vidyala <span>1995-2010</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Computer Science,Physics,Chemistry & Maths with 92 merit. School Days were the best days of my life, Annual Day Function Practices , Sports Day Events, English Literature School Plays, Band Practice and Inter school Cultural Events were good memories to cherish.  </p>
+
                       </div>
                     </div>
                   </article>
