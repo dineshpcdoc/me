@@ -7,4 +7,4 @@ This is the implementaion code for the blog which Dhuruv have written '[How to c
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://dineshsivakumar.me
+##### deployed app : http://dineshsivakumar.me
