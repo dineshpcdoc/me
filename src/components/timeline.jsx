@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Working at Tata Consultancy Services <span>2014-present</span></h2>
-                        <p>It's been a 5yr journey with TCS, I got good opportunities to explore on multiple technologies for building web and mobile based applications. We have a build a solution called mMortgage which involves helping lenders, banking and financial institution to digitize the customer touch points providing a frictionless consumer experience.</p>
+                        <p>It's been a 6.5 yrs journey with TCS, I got good opportunities to explore on multiple technologies for building web and mobile based applications. We have a build a solution called mMortgage which involves helping lenders, banking and financial institution to digitize the customer touch points providing a frictionless consumer experience.</p>
                         <p>Most of the applications are focused latest IT trends like Artificial Inteligence, Machine Learning, Deep Learning and Cloud Computing.</p><p>We have movied to Business 4.0 focusing on disruptive and innovative technologies like Internet of Things (IoT), artificial intelligence (AI), cloud, analytics and others are changing business models and driving exponential growth </p>
                       </div>
                     </div>
